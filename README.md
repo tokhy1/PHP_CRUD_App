@@ -1,6 +1,6 @@
 # CRUD APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Revolutionize data management with PHP powered CRUD App. Seamlessly create, read, update, and delete data through an intuitive user interface. Simplify your workflows and embrace the efficiency of modern web development.
 
 ## Features:
 - Create and organize your products effortlessly.
