@@ -2,28 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Preview
-![overview](screenshots/overview.mp4)
-
-
 ## Features:
 - Create and organize your products effortlessly.
 - Edit and update products with ease.
 - Delete products securely.
 - Keep your products organized.
 
-
 ## Acknowledge
 
 In This App i used:
 - Html for web structure
 - Css For styling
-- JavaScript for website logic
-- React.js for performance and manage the app easily with JSX Fututre
 - Bootstrap library.
-- Express.js for backend and server-side.
+- PHP for backend and server-side language.
 - MySQL database.
-- Axios library for http requests and api managment.  
 
 
 ## Contributing
